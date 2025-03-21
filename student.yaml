@@ -1,0 +1,9 @@
+train: C:\Users\Lenovo\Python3.10\detect_student\yolov7\train_data\train
+val: C:\Users\Lenovo\Python3.10\detect_student\yolov7\train_data\val
+
+nc: 5
+
+names: [ 'book', 'using_phone', 'using_laptop', 'write', 'sleep' ]
+
+
+
